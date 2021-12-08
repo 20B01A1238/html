@@ -1,0 +1,39 @@
+body{
+    background-image:url(page.png);                                                                                       
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    font-size: 50px;
+}
+input{
+    border-radius: 15px;
+    background-color: black;
+    color: aliceblue;
+    border-color: aqua;
+    
+}
+h3{
+    top:"100px"
+}
+div1{
+    font-size: x-large;
+}
+a{
+    text-decoration: none;
+    color: green;
+    font-size: large;
+}
+a:hover{text-decoration-line: underline;
+    color:red;
+}
+input:hover{
+    color: red;
+}
+input{
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
